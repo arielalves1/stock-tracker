@@ -4,8 +4,6 @@
 Study project for a Stock Tracking application created with Javascript from a lesson.
 
 ## Screenshot
-![Screenshot of the App]()
-
 ![printscreen](https://github.com/user-attachments/assets/62c90e72-69fc-4fca-9692-554d33c6fc88)
 
 ```
